@@ -1,0 +1,52 @@
+﻿正在安装程序集“C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.InstallLog
+   assemblypath = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe
+正在安装服务 Service1...
+正在日志 Application 中创建 EventLog 源 Service1...
+正在回滚程序集“C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.InstallLog
+   assemblypath = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe
+正在将事件日志还原到源 Service1 的前一状态。
+正在安装程序集“C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.InstallLog
+   assemblypath = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe
+正在安装服务 Service1...
+正在日志 Application 中创建 EventLog 源 Service1...
+正在回滚程序集“C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.InstallLog
+   assemblypath = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe
+正在将事件日志还原到源 Service1 的前一状态。
+正在安装程序集“C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.InstallLog
+   assemblypath = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe
+正在安装服务 Service1...
+正在日志 Application 中创建 EventLog 源 Service1...
+正在回滚程序集“C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.InstallLog
+   assemblypath = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe
+正在将事件日志还原到源 Service1 的前一状态。
+正在安装程序集“C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.InstallLog
+   assemblypath = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.InstallLog
+   assemblypath = C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe

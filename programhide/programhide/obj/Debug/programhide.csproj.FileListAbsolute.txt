@@ -1,0 +1,9 @@
+C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe.config
+C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.exe
+C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\bin\Debug\programhide.pdb
+C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\obj\Debug\programhide.csprojAssemblyReference.cache
+C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\obj\Debug\programhide.ProjectInstaller.resources
+C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\obj\Debug\programhide.csproj.GenerateResource.cache
+C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\obj\Debug\programhide.csproj.CoreCompileInputs.cache
+C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\obj\Debug\programhide.exe
+C:\Users\可乐我只喝无糖\Desktop\programhide\programhide\obj\Debug\programhide.pdb
